@@ -22,3 +22,6 @@ Create an instagram copy with React ( Only front end )
 - Grid feed with pictures
 
 6) Settings page with only one page which includes only profile data
+
+Dummy data can be recieved from: https://dummyapi.io/
+From here you can pull user list with some profile data, images and posts
