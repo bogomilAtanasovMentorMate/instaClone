@@ -5,10 +5,10 @@ Create an instagram copy with React ( Only front end )
 
 2) Home page
 
-a) Top carousel with stories.
+- Top carousel with stories.
 - Open story functionality
-b) Main Feed
-c) Suggested for you
+- Main Feed
+- Suggested for you
 
 3) Explore
 - Main Grid + Search
