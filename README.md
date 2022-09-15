@@ -12,12 +12,14 @@ Create an instagram copy with React ( Only front end )
 
 Use https://dummyapi.io/data/v1/user?limit=10 to get some users:
 It returns an array of dummy data:
+```
 {
 firstName: "Adina"id: "60d0fe4f5311236168a109cc"
 lastName: "Barbosa"
 picture: "https://randomuser.me/api/portraits/med/women/28.jpg"
 title: "ms"
 }
+```
 
 Combine the previous endpoint with:
 https://dummyapi.io/data/v1/post?limit=10
@@ -35,12 +37,14 @@ To recieve dummy feed data for the main feed
 
 Use https://dummyapi.io/data/v1/user?limit=10 to get some users:
 It returns an array of dummy data:
+```
 {
 firstName: "Adina"id: "60d0fe4f5311236168a109cc"
 lastName: "Barbosa"
 picture: "https://randomuser.me/api/portraits/med/women/28.jpg"
 title: "ms"
 }
+```
 
 5) Profile page
 - Profile pciture with profile information: number of posts, number of followers, number of following
