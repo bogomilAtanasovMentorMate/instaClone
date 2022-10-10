@@ -55,3 +55,10 @@ Use https://dummyapi.io/data/v1/user/60d0fe4f5311236168a109ca to get a user full
 
 6) Settings page with only one page which includes only profile data
 
+Subtasks:
+- Use a router
+- Use a component library
+- Use atleast once: useCallback, useRef, useMemo, useEffect
+- Use styled components
+- Use Redux
+
